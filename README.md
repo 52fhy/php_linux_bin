@@ -3,6 +3,8 @@
 
 php7，php8 Linux二进制版本，已打包部分扩展，便于快速部署。提取自[phpstudy](https://www.xp.cn/linux.html)。
 
+二进制包详见 https://github.com/52fhy/php_linux_bin/releases/tag/v1.0
+
 安装：
 ``` bash
 ./install
