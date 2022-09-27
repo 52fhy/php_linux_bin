@@ -14,3 +14,18 @@ php7，php8 Linux二进制版本，已打包部分扩展，便于快速部署。
 ``` bash
 sudo /usr/bin/php /usr/bin/php.bak
 ```
+
+
+相关命令：
+``` bash
+php-fpm
+php-fpm stop
+
+php -m
+php --ri swoole
+```
+
+支持pecl安装：
+```
+sudo pecl install https://pecl.php.net/get/grpc-1.44.0.tgz
+```
